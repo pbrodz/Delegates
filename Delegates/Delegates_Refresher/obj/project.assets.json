@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pbrodz\\source\\repos\\Delegates\\Delegates\\Delegates\\Delegates.csproj",
-      "projectName": "Delegates",
-      "projectPath": "C:\\Users\\pbrodz\\source\\repos\\Delegates\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "C:\\Users\\pbrodz\\source\\repos\\Delegates\\Delegates\\Delegates_Refresher\\Delegates_Refresher.csproj",
+      "projectName": "Delegates_Refresher",
+      "projectPath": "C:\\Users\\pbrodz\\source\\repos\\Delegates\\Delegates\\Delegates_Refresher\\Delegates_Refresher.csproj",
       "packagesPath": "C:\\Users\\pbrodz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pbrodz\\source\\repos\\Delegates\\Delegates\\Delegates\\obj\\",
+      "outputPath": "C:\\Users\\pbrodz\\source\\repos\\Delegates\\Delegates\\Delegates_Refresher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

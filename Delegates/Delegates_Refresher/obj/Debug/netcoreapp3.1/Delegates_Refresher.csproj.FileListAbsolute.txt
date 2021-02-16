@@ -1,0 +1,13 @@
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\bin\Debug\netcoreapp3.1\Delegates_Refresher.exe
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\bin\Debug\netcoreapp3.1\Delegates_Refresher.deps.json
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\bin\Debug\netcoreapp3.1\Delegates_Refresher.runtimeconfig.json
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\bin\Debug\netcoreapp3.1\Delegates_Refresher.runtimeconfig.dev.json
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\bin\Debug\netcoreapp3.1\Delegates_Refresher.dll
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\bin\Debug\netcoreapp3.1\Delegates_Refresher.pdb
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.csprojAssemblyReference.cache
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.AssemblyInfoInputs.cache
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.AssemblyInfo.cs
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.csproj.CoreCompileInputs.cache
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.dll
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.pdb
+C:\Users\pbrodz\source\repos\Delegates\Delegates\Delegates_Refresher\obj\Debug\netcoreapp3.1\Delegates_Refresher.genruntimeconfig.cache

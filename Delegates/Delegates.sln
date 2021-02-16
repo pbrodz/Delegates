@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{936D6DAC-1A0A-426D-AECA-965D2CB850BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{936D6DAC-1A0A-426D-AECA-965D2CB850BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates_Refresher", "Delegates_Refresher\Delegates_Refresher.csproj", "{FE279ECD-42E6-4F79-8A43-96C901EC9213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{936D6DAC-1A0A-426D-AECA-965D2CB850BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{936D6DAC-1A0A-426D-AECA-965D2CB850BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{936D6DAC-1A0A-426D-AECA-965D2CB850BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE279ECD-42E6-4F79-8A43-96C901EC9213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE279ECD-42E6-4F79-8A43-96C901EC9213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE279ECD-42E6-4F79-8A43-96C901EC9213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE279ECD-42E6-4F79-8A43-96C901EC9213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
